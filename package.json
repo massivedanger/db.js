@@ -1,0 +1,26 @@
+{
+  "name": "db.js",
+  "version": "1.0.0",
+  "description": "JavaScript database",
+  "main": "db.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/massivedanger/db.js.git"
+  },
+  "keywords": [
+    "database"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/massivedanger/db.js/issues"
+  },
+  "homepage": "https://github.com/massivedanger/db.js#readme"
+}
